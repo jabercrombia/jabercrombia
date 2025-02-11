@@ -22,17 +22,9 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with a passion for 
 - 📧 [jabercrombia@gmail.com](mailto:jabercrombia@gmail.com)
 
 ## Job History
+- [Asics](http://www.asics.com) 03/2021 - Present
+- [Fox Racing](http://www.foxracing.com)  10/2018 - 03/2021
+- [Sony Pictures](http://www.sonypictures.com) 12/2015 - 10/2018
 
-<div style="display:flex; justify-content: space-between; align-items: center">
-    <div>
-        <a href="http://www.asics.com"><img src="images/asics.png" alt="asics" width="100"></a>
-    </div>
-    <div>
-        <a href="http://www.foxracing.com"><img src="images/fox.png" alt="fox" width="100"></a>
-    </div>
-    <div>
-        <a href="https://www.sonypictures.com/"><img src="images/sonypictures.png" alt="sony" height="50"></a>
-    </div>
-</div>
 
 Thanks for stopping by! Feel free to explore my repositories and reach out if you’d like to collaborate. 🚀
