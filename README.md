@@ -15,6 +15,12 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with a passion for 
 - **Backend:** Node.js, Express.js, REST & GraphQL APIs
 - **Tools & DevOps:** Git, Vercel, Netlify
 
+
+## Projects
+- 💻 [Personal Website Portfolio](https://github.com/jabercrombia/jabercrombia-app)
+- 📄 [Resume Builder](https://github.com/jabercrombia/resume-builder)
+- 😎 [Weather App](https://github.com/jabercrombia/Weather-App)
+
 ## 📫 Let's Connect
 
 - 🖥 [LinkedIn](https://www.linkedin.com/in/justin-abercrombia/)
