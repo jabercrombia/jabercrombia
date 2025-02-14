@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with a passion for 
 ## Projects
 - 💻 [Personal Website Portfolio](https://github.com/jabercrombia/jabercrombia-app)
 - 📄 [Resume Builder](https://github.com/jabercrombia/resume-builder)
-- 😎 [Weather App](https://github.com/jabercrombia/Weather-App)
+- 😎 [Weather App](https://github.com/jabercrombia/weather-nextjs)
 
 ## 📫 Let's Connect
 
