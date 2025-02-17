@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with a passion for 
 - 📄 [Resume Builder](https://github.com/jabercrombia/resume-builder)
 - 😎 [Weather App](https://github.com/jabercrombia/weather-nextjs)
 
-| ![homepage image](/public/images/projects/results.png) |![homepage image](/public/images/projects/resume-builder-thumb.jpg) | ![homepage image](/public/images/projects/homepage_thumb.png) |
+| ![homepage image](/images/projects/results.png) |![homepage image](/images/projects/resume-builder-thumb.jpg) | ![homepage image](/images/projects/homepage_thumb.png) |
 | :---         |     :---:      |          ---: |
 | Weather App   | Resume Builder     | Personal Website    |
 
