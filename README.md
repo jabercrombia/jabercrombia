@@ -22,10 +22,10 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with a passion for 
     * [Site](https://www.jabercrombia.com?utm_source=github&utm_medium=github&utm_campaign=gitub-profile)
 - 📄 Resume Builder
     * [Github Repo](https://github.com/jabercrombia/resume-builder)
-    * [Site](https://weather-nextjs-zeta.vercel.app/)
+    * [Site](https://resume-app-flame.vercel.app/?utm_source=github&utm_medium=internet&utm_campaign=github&utm_id=mywebsite)
 - 😎 Weather App
     * [Github Repo](https://github.com/jabercrombia/weather-nextjs)
-    * [Site](https://weather-nextjs-zeta.vercel.app/)
+    * [Site](https://weather-nextjs-zeta.vercel.app/?utm_source=github&utm_medium=internet&utm_campaign=github&utm_id=mywebsite)
 
 ## 📫 Let's Connect
 
