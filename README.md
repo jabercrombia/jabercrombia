@@ -26,6 +26,9 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with a passion for 
 - 😎 Weather App
     * [Github Repo](https://github.com/jabercrombia/weather-nextjs)
     * [Site](https://weather-nextjs-zeta.vercel.app/?utm_source=github&utm_medium=internet&utm_campaign=github&utm_id=mywebsite)
+- 📊 Google Analytics Dashboard
+* [Github Repo](https://github.com/jabercrombia/google-dashboard-api)
+* [Site](https://google-dashboard-api.vercel.app/?utm_source=github&utm_medium=internet&utm_campaign=github)
 
 ## 📫 Let's Connect
 
