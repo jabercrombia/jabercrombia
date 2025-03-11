@@ -13,7 +13,8 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with a passion for 
 ## 🛠️ Tech Stack
 - **Frontend:** React.js, Next.js, Tailwind CSS, TypeScript
 - **Backend:** Node.js, Express.js, REST & GraphQL APIs
-- **Tools & DevOps:** Git, Vercel, Netlify
+- **Tools & DevOps:** Git, Vercel, Netlify, AWS
+- **Database:** PostgreSQL
 
 
 ## Projects
