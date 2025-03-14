@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with a passion for 
     * [Github Repo](https://github.com/jabercrombia/google-dashboard-api)
     * [Site](https://google-dashboard-api.vercel.app/?utm_source=github&utm_medium=internet&utm_campaign=github)
 - 🌍 OpenWeather API to S3 ETL
-    * [Github Repo](https://github.com/jabercrombia/weather-etl-s3)
+    * [Github Repo](https://github.com/jabercrombia/api-to-s3)
     * **Python-based ETL pipeline fetching weather data, transforming it, and storing it in AWS S3.**
 
 ## 👫 Let's Connect
