@@ -59,7 +59,8 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with a passion for 
             <p>Github: <a href="https://github.com/jabercrombia/api-to-s3">https://github.com/jabercrombia/api-to-s3</a></p>
         </td>
         <td>
-        <a href="https://github.com/jabercrombia?tab=repositories&q=python&type=&language=&sort=" style="color:#fff">API to S3</a>
+            <a href="https://github.com/jabercrombia/api-to-s3" style="color:#fff">API to S3</a>
+            <a href="https://github.com/jabercrombia/video-game-sales-api" style="color:#fff">Video Game Sales API</a>
         </td>
     <tr>
 </table>
