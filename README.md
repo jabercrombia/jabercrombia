@@ -18,53 +18,22 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with a passion for 
 - **Database:** PostgreSQL, SQLite
 
 ## Projects
-
-- 💻 Personal Website Portfolio
-  - [Github Repo](https://github.com/jabercrombia/jabercrombia-app)
-  - [Site](https://www.jabercrombia.com?utm_source=github&utm_medium=github&utm_campaign=gitub-profile)
-- 📄 Resume Builder
-  - [Github Repo](https://github.com/jabercrombia/resume-builder)
-  - [Site](https://resume-app-flame.vercel.app/?utm_source=github&utm_medium=internet&utm_campaign=github&utm_id=mywebsite)
-- 😎 Weather App
-  - [Github Repo](https://github.com/jabercrombia/weather-nextjs)
-  - [Site](https://weather-nextjs-zeta.vercel.app/?utm_source=github&utm_medium=internet&utm_campaign=github&utm_id=mywebsite)
-- 📊 Google Analytics Dashboard
-  - [Github Repo](https://github.com/jabercrombia/google-dashboard-api)
-  - [Site](https://google-dashboard-api.vercel.app/?utm_source=github&utm_medium=internet&utm_campaign=github)
-- 🌍 OpenWeather API to S3 ETL
-  - [Github Repo](https://github.com/jabercrombia/api-to-s3)
-  - **Python-based ETL pipeline fetching weather data, transforming it, and storing it in AWS S3.**
-### Repos
-
--<a href="https://github.com/jabercrombia/api-to-s3" style="underline:none">Python</a>
-<table style="width:100%">
-    <tr>
-        <th style="width:33%">
-        NextJS
-        </th>
-        <th style="width:33%">
-        Data
-        </th>
-        <th style="width:33%">
-        <a href="https://github.com/jabercrombia/api-to-s3" style="text-decoration:none">Python</a>
-        </th>
-    </tr>
-    <tr>
-        <td>
-            <p>API to S3<p>
-            <p>Github: <a href="https://github.com/jabercrombia/api-to-s3">https://github.com/jabercrombia/api-to-s3</a></p>
-        </td>
-        <td>
-            <p>API to S3<p>
-            <p>Github: <a href="https://github.com/jabercrombia/api-to-s3">https://github.com/jabercrombia/api-to-s3</a></p>
-        </td>
-        <td>
-            <a href="https://github.com/jabercrombia/api-to-s3" style="color:#fff">API to S3</a>
-            <br>
-            <a href="https://github.com/jabercrombia/video-game-sales-api" style="color:#fff">Video Game Sales API</a>
-        </td>
-    <tr>
-</table>
+- NextJS
+    - 💻 Personal Website Portfolio
+        - [Github Repo](https://github.com/jabercrombia/jabercrombia-app)
+        - [Site](https://www.jabercrombia.com?utm_source=github&utm_medium=github&utm_campaign=gitub-profile)
+    - 📄 Resume Builder
+        - [Github Repo](https://github.com/jabercrombia/resume-builder)
+        - [Site](https://resume-app-flame.vercel.app/?utm_source=github&utm_medium=internet&utm_campaign=github&utm_id=mywebsite)
+    - 😎 Weather App
+        - [Github Repo](https://github.com/jabercrombia/weather-nextjs)
+        - [Site](https://weather-nextjs-zeta.vercel.app/?utm_source=github&utm_medium=internet&utm_campaign=github&utm_id=mywebsite)
+    - 📊 Google Analytics Dashboard
+        - [Github Repo](https://github.com/jabercrombia/google-dashboard-api)
+        - [Site](https://google-dashboard-api.vercel.app/?utm_source=github&utm_medium=internet&utm_campaign=github)
+- Python
+    - 🌍 OpenWeather API to S3 ETL Pipeline
+        - [Github Repo](https://github.com/jabercrombia/api-to-s3)
 
 ## 👫 Let's Connect
 
