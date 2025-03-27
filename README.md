@@ -34,6 +34,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with a passion for 
 - 🎮 Video Games Sales Dashboard | [Github Repo](https://github.com/jabercrombia/video-game-sales-api) | [Site](https://video-game-sales-api.vercel.app/)
 - 🎮 Video Games Sales API | [Github Repo](https://github.com/jabercrombia/video-game-sales-api) | [Site](https://video-game-sales-api.vercel.app/)
 - 📋 CSV to SQL | [Github Repo](https://github.com/jabercrombia/csv-to-sql)
+- 📈 Invoice Tracker| [Github Repo](https://github.com/jabercrombia/invoice-tracker) | [Site](https://invoice-tracker-tau.vercel.app/)
 
 ## 👫 Let's Connect
 
