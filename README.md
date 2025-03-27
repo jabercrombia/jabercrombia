@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with a passion for 
         Data
         </th>
         <th>
-        <a href="https://github.com/jabercrombia/api-to-s3" style="underline:none">Python</a>
+        <a href="https://github.com/jabercrombia/api-to-s3" style="text-decoration:none">Python</a>
         </th>
     </tr>
     <tr>
