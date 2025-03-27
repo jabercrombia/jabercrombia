@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with a passion for 
 - **Database:** PostgreSQL, SQLite
 
 ## Projects
-### NextJS
+### [NextJS](https://github.com/jabercrombia?tab=repositories&q=nextjs&type=&language=&sort=)
 - 💻 Personal Website Portfolio
     - [Github Repo](https://github.com/jabercrombia/jabercrombia-app)
     - [Site](https://www.jabercrombia.com?utm_source=github&utm_medium=github&utm_campaign=gitub-profile)
@@ -31,8 +31,8 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with a passion for 
 - 📊 Google Analytics Dashboard
     - [Github Repo](https://github.com/jabercrombia/google-dashboard-api)
     - [Site](https://google-dashboard-api.vercel.app/?utm_source=github&utm_medium=internet&utm_campaign=github)
-### Python | [Repos](https://github.com/jabercrombia?tab=repositories&q=python&type=&language=&sort=)
-- 📊 Video Games Sale API
+### [Python](https://github.com/jabercrombia?tab=repositories&q=python&type=&language=&sort=)
+- 🎮 Video Games Sale API
     - [Github Repo](https://github.com/jabercrombia/video-game-sales-api)
     - [Site](https://video-game-sales-api.vercel.app/)
 
