@@ -35,6 +35,17 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with a passion for 
   - [Github Repo](https://github.com/jabercrombia/api-to-s3)
   - **Python-based ETL pipeline fetching weather data, transforming it, and storing it in AWS S3.**
 ### Repos
+<div style="width: 100%; display: flex; flex-wrap: wrap">
+  <div style="width: 33%">
+    <p>NextJS</p>
+  </div>
+  <div style="width: 33%">
+    <p>Data</p>
+  </div>
+  <div style="width: 33%">
+    <p>Python</p>
+  </div>
+</div>
 
 -<a href="https://github.com/jabercrombia/api-to-s3" style="underline:none">Python</a>
 <table style="width:100%">
