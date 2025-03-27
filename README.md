@@ -18,19 +18,19 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with a passion for 
 - **Database:** PostgreSQL, SQLite
 
 ## Projects
-- NextJS
-    - 💻 Personal Website Portfolio
-        - [Github Repo](https://github.com/jabercrombia/jabercrombia-app)
-        - [Site](https://www.jabercrombia.com?utm_source=github&utm_medium=github&utm_campaign=gitub-profile)
-    - 📄 Resume Builder
-        - [Github Repo](https://github.com/jabercrombia/resume-builder)
-        - [Site](https://resume-app-flame.vercel.app/?utm_source=github&utm_medium=internet&utm_campaign=github&utm_id=mywebsite)
-    - 😎 Weather App
-        - [Github Repo](https://github.com/jabercrombia/weather-nextjs)
-        - [Site](https://weather-nextjs-zeta.vercel.app/?utm_source=github&utm_medium=internet&utm_campaign=github&utm_id=mywebsite)
-    - 📊 Google Analytics Dashboard
-        - [Github Repo](https://github.com/jabercrombia/google-dashboard-api)
-        - [Site](https://google-dashboard-api.vercel.app/?utm_source=github&utm_medium=internet&utm_campaign=github)
+### NextJS
+- 💻 Personal Website Portfolio
+    - [Github Repo](https://github.com/jabercrombia/jabercrombia-app)
+    - [Site](https://www.jabercrombia.com?utm_source=github&utm_medium=github&utm_campaign=gitub-profile)
+- 📄 Resume Builder
+    - [Github Repo](https://github.com/jabercrombia/resume-builder)
+    - [Site](https://resume-app-flame.vercel.app/?utm_source=github&utm_medium=internet&utm_campaign=github&utm_id=mywebsite)
+- 😎 Weather App
+    - [Github Repo](https://github.com/jabercrombia/weather-nextjs)
+    - [Site](https://weather-nextjs-zeta.vercel.app/?utm_source=github&utm_medium=internet&utm_campaign=github&utm_id=mywebsite)
+- 📊 Google Analytics Dashboard
+    - [Github Repo](https://github.com/jabercrombia/google-dashboard-api)
+    - [Site](https://google-dashboard-api.vercel.app/?utm_source=github&utm_medium=internet&utm_campaign=github)
 - Python
     - 🌍 OpenWeather API to S3 ETL Pipeline
         - [Github Repo](https://github.com/jabercrombia/api-to-s3)
