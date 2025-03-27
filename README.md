@@ -34,8 +34,9 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with a passion for 
 ### [Python](https://github.com/jabercrombia?tab=repositories&q=python&type=&language=&sort=)
 - 🎮 Video Games Sales Dashboard | [Github Repo](https://github.com/jabercrombia/video-game-sales-api) | [Site](https://video-game-sales-api.vercel.app/)
 - 🎮 Video Games Sales API | [Github Repo](https://github.com/jabercrombia/video-game-sales-api) | [Site](https://video-game-sales-api.vercel.app/)
-- 🎮 CSV to SQL | [Github Repo](https://github.com/jabercrombia/csv-to-sql)
-- 🎮 Image Crawler | [Github Repo](https://github.com/jabercrombia/video-game-crawler) 
+- 📋 CSV to SQL | [Github Repo](https://github.com/jabercrombia/csv-to-sql)
+- 🎮 Image Crawler | [Github Repo](https://github.com/jabercrombia/video-game-crawler)
+- 💻 ADA E2E Testing | [Github Repo](https://github.com/jabercrombia/ADA-e2e-testing) 
 
 ## 👫 Let's Connect
 
