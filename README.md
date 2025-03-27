@@ -60,6 +60,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with a passion for 
         </td>
         <td>
             <a href="https://github.com/jabercrombia/api-to-s3" style="color:#fff">API to S3</a>
+            <br>
             <a href="https://github.com/jabercrombia/video-game-sales-api" style="color:#fff">Video Game Sales API</a>
         </td>
     <tr>
