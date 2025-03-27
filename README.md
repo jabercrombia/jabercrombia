@@ -31,9 +31,10 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with a passion for 
 - 📊 Google Analytics Dashboard
     - [Github Repo](https://github.com/jabercrombia/google-dashboard-api)
     - [Site](https://google-dashboard-api.vercel.app/?utm_source=github&utm_medium=internet&utm_campaign=github)
-- Python
-    - 🌍 OpenWeather API to S3 ETL Pipeline
-        - [Github Repo](https://github.com/jabercrombia/api-to-s3)
+### Python | [Repos](https://github.com/jabercrombia?tab=repositories&q=python&type=&language=&sort=)
+- 📊 Video Games Sale API
+    - [Github Repo](https://github.com/jabercrombia/video-game-sales-api)
+    - [Site](https://video-game-sales-api.vercel.app/)
 
 ## 👫 Let's Connect
 
