@@ -37,15 +37,15 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with a passion for 
 ### Repos
 
 -<a href="https://github.com/jabercrombia/api-to-s3" style="underline:none">Python</a>
-<table>
+<table style="width:100%">
     <tr>
-        <th width="33%">
+        <th style="width:33%">
         NextJS
         </th>
-        <th width="33%">
+        <th style="width:33%">
         Data
         </th>
-        <th width="33%">
+        <th style="width:33%">
         <a href="https://github.com/jabercrombia/api-to-s3" style="text-decoration:none">Python</a>
         </th>
     </tr>
