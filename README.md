@@ -32,6 +32,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with a passion for 
 - 🎮 Image Crawler | [Github Repo](https://github.com/jabercrombia/video-game-crawler)
 - 💻 ADA E2E Testing | [Github Repo](https://github.com/jabercrombia/ADA-e2e-testing) 
 - 🎮 Pixar Movie API | [Github Repo](https://github.com/jabercrombia/Pixar-API) | [Site](https://pixar-api.vercel.app/)
+- 📄  Contentful to Elastic Search | [Github Repo](https://github.com/jabercrombia/elastic-search-contentful)
 
 ### [Data Analysis](https://github.com/jabercrombia?tab=repositories&q=data-analysis&type=&language=&sort=)
 - 🎮 Video Games Sales Dashboard | [Github Repo](https://github.com/jabercrombia/video-game-sales-api) | [Site](https://video-game-sales-api.vercel.app/)
