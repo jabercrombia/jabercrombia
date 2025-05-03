@@ -35,6 +35,9 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with a passion for 
 - 🎮 Pixar Movie API | [Github Repo](https://github.com/jabercrombia/Pixar-API) | [Site](https://pixar-api.vercel.app/)
 - 📄  Contentful to Elastic Search | [Github Repo](https://github.com/jabercrombia/elastic-search-contentful)
 
+### [Golang](https://github.com/jabercrombia?tab=repositories&q=go&type=&language=&sort=)
+- 👦 Lego Set API | [Github Repo](https://github.com/jabercrombia/go-lego-api) | [Site](https://go-lego-api.vercel.app/?utm_source=github&utm_medium=profile&utm_campaign=github)
+
 ### [Data Analysis](https://github.com/jabercrombia?tab=repositories&q=data-analysis&type=&language=&sort=)
 - 🎮 Video Games Sales Dashboard | [Github Repo](https://github.com/jabercrombia/video-game-sales-api) | [Site](https://video-game-sales-api.vercel.app/)
 - 🎮 Video Games Sales API | [Github Repo](https://github.com/jabercrombia/video-game-sales-api) | [Site](https://video-game-sales-api.vercel.app/)
