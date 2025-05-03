@@ -5,14 +5,14 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with a passion for 
 ## 🚀 About Me
 
 - 💯 I specialize in **React.js** and **Next.js** for front-end development.
-- ✨ On the back end, I work with **Node.js** and **Python**.
+- ✨ On the back end, I work with **Node.js**, **Python**, **Go**.
 - 👩‍💻 I'm currently diving into **Data Engineering**, focusing on **ETL pipelines, data transformation, and AWS S3 integration**.
 - 📚 Always learning new technologies and best practices to improve my development and data processing skills.
 
 ## 🛠️ Tech Stack
 
 - **Frontend:** React.js, Next.js, Tailwind CSS, TypeScript
-- **Backend:** Node.js, Express.js, REST & GraphQL APIs, Python
+- **Backend:** Node.js, REST & GraphQL APIs, Python, Go
 - **Data Engineering:** Pandas, Boto3, AWS S3, CSV Processing
 - **Tools & DevOps:** Git, Vercel, Netlify, AWS, Docker
 - **Database:** PostgreSQL, SQLite
@@ -25,6 +25,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with a passion for 
 - 😎 Weather App | [Github Repo](https://github.com/jabercrombia/weather-nextjs) | [Site](https://weather-nextjs-zeta.vercel.app/?utm_source=github&utm_medium=internet&utm_campaign=github&utm_id=mywebsite)
 - 📊 Google Analytics Dashboard | [Github Repo](https://github.com/jabercrombia/google-dashboard-api) | [Site](https://google-dashboard-api.vercel.app/?utm_source=github&utm_medium=internet&utm_campaign=github)
 - ✔️ Cypress ADA E2E Testing | [Github Repo](https://github.com/jabercrombia/cypress-ada-testing)
+- 👦 Lego Set Api | [Github Repo](https://github.com/jabercrombia/go-lego-api) | [Site](https://go-lego-api.vercel.app/?utm_source=github&utm_medium=profile&utm_campaign=github)
 ### [Python](https://github.com/jabercrombia?tab=repositories&q=python&type=&language=&sort=)
 - 🎮 Video Games Sales Dashboard | [Github Repo](https://github.com/jabercrombia/video-game-sales-api) | [Site](https://video-game-sales-api.vercel.app/)
 - 🎮 Video Games Sales API | [Github Repo](https://github.com/jabercrombia/video-game-sales-api) | [Site](https://video-game-sales-api.vercel.app/)
