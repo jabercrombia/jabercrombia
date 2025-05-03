@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with a passion for 
 - 😎 Weather App | [Github Repo](https://github.com/jabercrombia/weather-nextjs) | [Site](https://weather-nextjs-zeta.vercel.app/?utm_source=github&utm_medium=internet&utm_campaign=github&utm_id=mywebsite)
 - 📊 Google Analytics Dashboard | [Github Repo](https://github.com/jabercrombia/google-dashboard-api) | [Site](https://google-dashboard-api.vercel.app/?utm_source=github&utm_medium=internet&utm_campaign=github)
 - ✔️ Cypress ADA E2E Testing | [Github Repo](https://github.com/jabercrombia/cypress-ada-testing)
-- 👦 Lego Set Api | [Github Repo](https://github.com/jabercrombia/go-lego-api) | [Site](https://go-lego-api.vercel.app/?utm_source=github&utm_medium=profile&utm_campaign=github)
+- 👦 Lego Set API | [Github Repo](https://github.com/jabercrombia/go-lego-api) | [Site](https://go-lego-api.vercel.app/?utm_source=github&utm_medium=profile&utm_campaign=github)
 ### [Python](https://github.com/jabercrombia?tab=repositories&q=python&type=&language=&sort=)
 - 🎮 Video Games Sales Dashboard | [Github Repo](https://github.com/jabercrombia/video-game-sales-api) | [Site](https://video-game-sales-api.vercel.app/)
 - 🎮 Video Games Sales API | [Github Repo](https://github.com/jabercrombia/video-game-sales-api) | [Site](https://video-game-sales-api.vercel.app/)
