@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with a passion for 
 ### [Golang](https://github.com/jabercrombia?tab=repositories&q=&type=&language=go&sort=)
 - 👦 Lego Set API | [Github Repo](https://github.com/jabercrombia/go-lego-api) | [Site](https://go-lego-api.vercel.app/?utm_source=github&utm_medium=profile&utm_campaign=github)
 
-### [NodeJS](https://github.com/jabercrombia?tab=repositories&q=&type=&language=go&sort=)
+### [NodeJS](https://github.com/jabercrombia?tab=repositories&q=&type=&language=javascript&sort=)
 - 📋 Opensearch Contentful CMS Integration | [Github Repo](https://github.com/jabercrombia/opensearch-contentful-integration)
 
 ### [Data Analysis](https://github.com/jabercrombia?tab=repositories&q=data-analysis&type=&language=&sort=)
