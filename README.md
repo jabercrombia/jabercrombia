@@ -56,7 +56,8 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with a passion for 
 
 ## Job History
 
-- [Asics](http://www.asics.com) 03/2021 - Present
+- [Shark|Ninja](http://www.sharkninja.com) 07/2025 - Present
+- [Asics](http://www.asics.com) 03/2021 - 01/2025
 - [Fox Racing](http://www.foxracing.com) 10/2018 - 03/2021
 - [Sony Pictures](http://www.sonypictures.com) 12/2015 - 10/2018
 
