@@ -1,52 +1,60 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm a **Full Stack Developer** with a passion for building efficient, scalable, and user-friendly web applications. I'm also actively picking up **Python for Data Engineering** to expand my skills in ETL pipelines, data processing, and cloud storage solutions.
+I'm a **DevOps Engineer** at **SharkNinja**. I automate infrastructure, deployment pipelines, and edge platforms so teams can ship quickly and reliably. My background is in full stack web development, so I know the applications I deploy from the inside, from Next.js frontends to Python and Go APIs.
 
-## 🚀 About Me
+## 🚀 What I'm Working On
 
-- 💯 I specialize in **React.js** and **Next.js** for front-end development.
-- ✨ On the back end, I work with **Node.js**, **Python**, **Go**.
-- 👩‍💻 I'm currently diving into **Data Engineering**, focusing on **ETL pipelines, data transformation, and AWS S3 integration**.
-- 📚 Always learning new technologies and best practices to improve my development and data processing skills.
+- 🏗️ **Infrastructure as code:** Cloudflare DNS and analytics stacks provisioned with Terraform and Docker
+- 🔁 **CI/CD and automation:** GitHub Actions, scheduled Vercel jobs, and scripted content and asset pipelines
+- 🌍 **Edge platforms:** Cloudflare Workers, Durable Objects, and Vercel deployments with geo-aware routing
+- 📈 **Observability and search:** Elasticsearch, OpenSearch, and Grafana dashboards
+- 🤖 **AI in operations:** Claude-powered automation and AI agents running on Workers AI
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React.js, Next.js, Tailwind CSS, TypeScript
-- **Backend:** Node.js, REST & GraphQL APIs, Python, Go
-- **Data Engineering:** Pandas, Boto3, AWS S3, CSV Processing
-- **Tools & DevOps:** Git, Vercel, Netlify, AWS, Docker
-- **Database:** PostgreSQL, SQLite
+- **Infrastructure as Code:** Terraform (HCL)
+- **Cloud & Edge:** Cloudflare (Workers, Durable Objects, DNS), Vercel, AWS (S3)
+- **Containers:** Docker, Docker Compose
+- **CI/CD:** GitHub Actions, Vercel Cron, Git
+- **Observability & Search:** Grafana, Elasticsearch, OpenSearch
+- **Databases:** PostgreSQL, Supabase, Neon
+- **Languages:** Python, Go, TypeScript, Node.js, Bash
+- **AI:** Claude / Anthropic API, Claude Code, Cloudflare Workers AI
+- **Testing:** Cypress, Selenium
+- **App Frameworks:** Next.js, React, FastAPI, Contentful, Sanity
 
-## Projects
-### [NextJS](https://github.com/jabercrombia?tab=repositories&q=nextjs&type=&language=&sort=)
-- 💻 Personal Website Portfolio | [Github Repo](https://github.com/jabercrombia/jabercrombia-app) | [Site](https://www.jabercrombia.com?utm_source=github&utm_medium=github&utm_campaign=gitub-profile)
-- 📈 Invoice Tracker| [Github Repo](https://github.com/jabercrombia/invoice-tracker) | [Site](https://invoice-tracker-tau.vercel.app/)
-- 📄 Resume Builder | [Github Repo](https://github.com/jabercrombia/resume-builder) | [Site](https://resume-app-flame.vercel.app/?utm_source=github&utm_medium=internet&utm_campaign=github&utm_id=mywebsite)
-- 😎 Weather App | [Github Repo](https://github.com/jabercrombia/weather-nextjs) | [Site](https://weather-nextjs-zeta.vercel.app/?utm_source=github&utm_medium=internet&utm_campaign=github&utm_id=mywebsite)
-- 📊 Google Analytics Dashboard | [Github Repo](https://github.com/jabercrombia/google-dashboard-api) | [Site](https://google-dashboard-api.vercel.app/?utm_source=github&utm_medium=internet&utm_campaign=github)
-- ✔️ Cypress ADA E2E Testing | [Github Repo](https://github.com/jabercrombia/cypress-ada-testing)
-- 👦 Lego Set API | [Github Repo](https://github.com/jabercrombia/go-lego-api) | [Site](https://go-lego-api.vercel.app/?utm_source=github&utm_medium=profile&utm_campaign=github)
-- 📄 Job Submission Portal | [Github Repo](https://github.com/jabercrombia/job-submission-portal)
-### [Python](https://github.com/jabercrombia?tab=repositories&q=python&type=&language=&sort=)
-- 🎮 Video Games Sales Dashboard | [Github Repo](https://github.com/jabercrombia/video-game-sales-api) | [Site](https://video-game-sales-api.vercel.app/)
-- 🎮 Video Games Sales API | [Github Repo](https://github.com/jabercrombia/video-game-sales-api) | [Site](https://video-game-sales-api.vercel.app/)
-- 📋 CSV to SQL | [Github Repo](https://github.com/jabercrombia/csv-to-sql)
-- 🎮 Image Crawler | [Github Repo](https://github.com/jabercrombia/video-game-crawler)
-- 💻 ADA E2E Testing | [Github Repo](https://github.com/jabercrombia/ADA-e2e-testing) 
-- 🎮 Pixar Movie API | [Github Repo](https://github.com/jabercrombia/Pixar-API) | [Site](https://pixar-api.vercel.app/)
-- 📄  Contentful to Elastic Search | [Github Repo](https://github.com/jabercrombia/elastic-search-contentful)
+## 📂 Featured Projects
 
-### [Golang](https://github.com/jabercrombia?tab=repositories&q=&type=&language=go&sort=)
-- 👦 Lego Set API | [Github Repo](https://github.com/jabercrombia/go-lego-api) | [Site](https://go-lego-api.vercel.app/?utm_source=github&utm_medium=profile&utm_campaign=github)
+### Infrastructure & DevOps
+- ☁️ **Terraform Cloudflare DNS:** Terraform manages the Cloudflare DNS that routes a domain to a Vercel-hosted app, so nothing is changed by hand | [Repo](https://github.com/jabercrombia/terraform-cloud)
+- 🌦️ **Weather Analytics Stack:** Elasticsearch and Grafana with pre-built dashboards, provisioned with Terraform and Docker | [Repo](https://github.com/jabercrombia/weather-analytics)
+- 🔎 **OpenSearch + Contentful:** OpenSearch and OpenSearch Dashboards on Docker Compose for real-time search and analytics on CMS content | [Repo](https://github.com/jabercrombia/opensearch-contentful-integration)
+- 🖼️ **Cloudinary Automation:** a scheduled Next.js API route that uploads images to Cloudinary, triggered by Vercel Cron or GitHub Actions | [Repo](https://github.com/jabercrombia/cloudinary-project)
+- 🪣 **API to S3:** pulls OpenWeather data, writes it to CSV, and uploads it to AWS S3 | [Repo](https://github.com/jabercrombia/api-to-s3)
 
-### [NodeJS](https://github.com/jabercrombia?tab=repositories&q=&type=&language=javascript&sort=)
-- 📋 Opensearch Contentful CMS Integration | [Github Repo](https://github.com/jabercrombia/opensearch-contentful-integration)
+### Edge & AI
+- 🚗 **Car Maintenance Agent:** a chat assistant that tracks mileage and service history, running on Cloudflare Workers AI with state kept in Durable Objects | [Repo](https://github.com/jabercrombia/ai-chat-vehicle) | [Site](https://car-maintenance-agent.jabercrombia.workers.dev/)
+- 🌐 **Sanity CMS Auto-Translation:** when content is published, Claude translates it into Spanish, French, and Italian and writes it back to Sanity | [Repo](https://github.com/jabercrombia/sanity-cms)
+- 👟 **Vercel Shoes:** a sneaker storefront that reacts to local weather, with locale routing and geo-based market pricing at the edge | [Repo](https://github.com/jabercrombia/vercel-shoes) | [Site](https://vercel-shoes.vercel.app)
+- 🎵 **Vercel Music:** global music trends personalized by country using Last.fm data | [Repo](https://github.com/jabercrombia/vercel-music) | [Site](https://vercel-music-beige.vercel.app)
 
-### [Data Analysis](https://github.com/jabercrombia?tab=repositories&q=data-analysis&type=&language=&sort=)
-- 🎮 Video Games Sales Dashboard | [Github Repo](https://github.com/jabercrombia/video-game-sales-api) | [Site](https://video-game-sales-api.vercel.app/)
-- 🎮 Video Games Sales API | [Github Repo](https://github.com/jabercrombia/video-game-sales-api) | [Site](https://video-game-sales-api.vercel.app/)
-- 📋 CSV to SQL | [Github Repo](https://github.com/jabercrombia/csv-to-sql)
-- 📈 Invoice Tracker| [Github Repo](https://github.com/jabercrombia/invoice-tracker) | [Site](https://invoice-tracker-tau.vercel.app/)
+### Testing & Quality
+- ✔️ **Cypress ADA E2E Testing:** route-driven accessibility and end-to-end tests, configured per environment and ready for CI/CD | [Repo](https://github.com/jabercrombia/cypress-ada-testing)
+- ♿ **Python ADA Testing:** Selenium checks for ADA compliance | [Repo](https://github.com/jabercrombia/ADA-e2e-testing)
+
+### APIs & Applications
+- 🧱 **LEGO Set API:** Go API with Swagger docs and a Next.js frontend, backed by PostgreSQL | [Repo](https://github.com/jabercrombia/go-lego-api) | [Site](https://go-lego-api.vercel.app/?utm_source=github&utm_medium=profile&utm_campaign=github)
+- 🎬 **Pixar Films API:** FastAPI on Vercel with serverless Neon Postgres | [Repo](https://github.com/jabercrombia/Pixar-API) | [Docs](https://pixar-api.vercel.app/docs)
+- 🎮 **Video Game Sales:** FastAPI + PostgreSQL API and a Next.js dashboard | [API Repo](https://github.com/jabercrombia/video-game-sales-api) | [Dashboard Repo](https://github.com/jabercrombia/video-game-data) | [Site](https://video-game-data-set.vercel.app/)
+- 📄 **Job Submission Portal:** Supabase-backed portal that scores resumes against the job description using a Python service | [Repo](https://github.com/jabercrombia/job-submission-portal) | [Site](https://job-submission-portal.vercel.app)
+- 💻 **Personal Website:** Next.js and Contentful, deployed on Vercel | [Repo](https://github.com/jabercrombia/jabercrombia-app) | [Site](https://www.jabercrombia.com?utm_source=github&utm_medium=github&utm_campaign=gitub-profile)
+
+## 💼 Experience
+
+- [SharkNinja](https://www.sharkninja.com) · DevOps Engineer · 07/2025 – Present
+- [ASICS](https://www.asics.com) · 03/2021 – 01/2025
+- [Fox Racing](https://www.foxracing.com) · 10/2018 – 03/2021
+- [Sony Pictures](https://www.sonypictures.com) · 12/2015 – 10/2018
 
 ## 👫 Let's Connect
 
@@ -54,11 +62,4 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with a passion for 
 - 🌐 [Portfolio](https://www.jabercrombia.com?utm_source=github&utm_medium=github&utm_campaign=gitub-profile)
 - 📧 [jabercrombia@gmail.com](mailto:jabercrombia@gmail.com)
 
-## Job History
-
-- [Shark | Ninja](http://www.sharkninja.com) 07/2025 - Present
-- [Asics](http://www.asics.com) 03/2021 - 01/2025
-- [Fox Racing](http://www.foxracing.com) 10/2018 - 03/2021
-- [Sony Pictures](http://www.sonypictures.com) 12/2015 - 10/2018
-
-Thanks for stopping by! Feel free to explore my repositories and reach out if you’d like to collaborate. 🚀
+Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate. 🚀
